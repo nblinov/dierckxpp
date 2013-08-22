@@ -11,5 +11,5 @@ Compile withe the included `makefile`.
 
 To-do
 -----
-[ ] Evaluation of first and second derivatives
-[ ] Comments/documentation
+- [ ] Evaluation of first and second derivatives
+- [ ] Comments/documentation
